@@ -1,0 +1,11 @@
+C:\Users\Vinsen\source\repos\nk\nk\bin\x64\Debug\nk.exe.config
+C:\Users\Vinsen\source\repos\nk\nk\bin\x64\Debug\nk.exe
+C:\Users\Vinsen\source\repos\nk\nk\bin\x64\Debug\nk.pdb
+C:\Users\Vinsen\source\repos\nk\nk\bin\x64\Debug\nk.xml
+C:\Users\Vinsen\source\repos\nk\nk\obj\x64\Debug\nk.vbprojAssemblyReference.cache
+C:\Users\Vinsen\source\repos\nk\nk\obj\x64\Debug\nk.Form1.resources
+C:\Users\Vinsen\source\repos\nk\nk\obj\x64\Debug\nk.Resources.resources
+C:\Users\Vinsen\source\repos\nk\nk\obj\x64\Debug\nk.vbproj.GenerateResource.cache
+C:\Users\Vinsen\source\repos\nk\nk\obj\x64\Debug\nk.exe
+C:\Users\Vinsen\source\repos\nk\nk\obj\x64\Debug\nk.xml
+C:\Users\Vinsen\source\repos\nk\nk\obj\x64\Debug\nk.pdb
